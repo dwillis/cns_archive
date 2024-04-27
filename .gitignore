@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+cleaned_cns_maryland_posts.json
+cns_maryland_posts.json
+cns_stories.db
+
 # C extensions
 *.so
 
